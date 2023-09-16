@@ -1,1 +1,1 @@
-Printf team project by Astra-max and Ansumana AB Kanneh
+Printf team project by Waore Maxwel and Ansumana AB Kanneh
