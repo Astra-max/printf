@@ -12,5 +12,5 @@ int printf_char(va_list chart)
 
 	str = va_arg(chart, int);
 	_putchar(str);
-	return(1);
+	return (1);
 }

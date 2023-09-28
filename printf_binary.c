@@ -16,7 +16,7 @@ int print_binary(va_list val)
 
 	for (a = 0; a < 32; a++)
 	{
-		j = ((b << (32 - a)); & num);
+		j = (b << (32 - a) & num);
 		if (j >> (31 - a))
 			flag = 1;
 		if (flag)
